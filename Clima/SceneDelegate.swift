@@ -1,10 +1,11 @@
 //
-//  SceneDelegate.swift
+//  WeatherModel.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Vaibhav Bisht on 09/04/2020.
+//  Copyright © 2020 Vaibhav Bisht. All rights reserved.
 //
+
 
 import UIKit
 
