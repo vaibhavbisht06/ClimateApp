@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Clima
 //
-//  Created by Vaibhav Bisht
-//  Copyright © 2020 Coding Blocks. All rights reserved.
+//  Created by Angela Yu on 01/09/2019.
+//  Copyright © 2019 App Brewery. All rights reserved.
 //
 
 import UIKit
